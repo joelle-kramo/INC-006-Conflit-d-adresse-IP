@@ -21,11 +21,11 @@ ipconfig /all
 ```
 
 Contrôler :
-- L'adresse IPv4 attribuée
-- Le masque de sous-réseaux
-- l passerelle par défaut
-- Le serveur DHCP
-- Les serveurs DNS
+- Adresse IPv4 attribuée
+- Masque de sous-réseaux
+- Passerelle par défaut
+- Serveur DHCP
+- Serveurs DNS
 
 ### Vérification de la présence d'un conflit
 
