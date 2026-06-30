@@ -7,8 +7,8 @@ Un utilisateur signale qu'il ne parvient plus à accéder au réseau de l'entrep
 - Aucun accès à Intert
 - Impossible d'accèder aux serveurs et aux partages réseaux
 - Message d'erreur indiquant un conflit d'adresse IP
-- Les autres utilsateurs du réseau fonctionnent normalement
-- La connexion réseau apparaît comme active
+- Autres utilsateurs du réseau fonctionnant normalement
+- Connexion réseau apparaissant comme active
 
 ## Diagnostic
 
@@ -59,25 +59,25 @@ Vérifier :
 
  Contrôler : 
 
- * La disponibilité du serveur DHCP
- * La plage d'adresse IP disponible
- * Les réservations d'adresses
- * Les baux DHCP actifs
+ * Disponibilité du serveur DHCP
+ * Plage d'adresse IP disponible
+ * Réservations d'adresses
+ * Baux DHCP actifs
 
 ### Vérification de la configuration du poste
 
 Contrôler :
 
-* La présence d'une adresse IP statique
-* Le mode d'obtention automatique (DHCP)
-* La conformité avec le plan d'adressage de l'entreprise
+* Présence d'une adresse IP statique
+* Mode d'obtention automatique (DHCP)
+* Conformité avec plan d'adressage de l'entreprise
 
 ## Cause probable 
 
 * Deux équipements utilisent la même adresse IP
-* Une adresse IP statique est configurée dans la plage du serveur DHCP
-* Un bail DHCP est corrompu ou expiré
-* Une mauvaise configuration réseau est présente sur le poste utilisateur
+* Adresse IP statique configurée dans plage du serveur DHCP
+* Bail DHCP corrompu ou expiré
+* Mauvaise configuration réseau présente sur le poste utilisateur
 
 ## Résolution
 
@@ -114,17 +114,17 @@ ping google.com
 
 Vérifier :
 
-* L'accès au réseau local
-* L'accès à Internet
-* L'accès aux ressources de l'entreprise
+* Accès au réseau local
+* Accès à Internet
+* Accès aux ressources de l'entreprise
 
 
 ## Résultat
 
-* Une adresse IP unique est attribué au poste
-* L'accès au réseau est rétabli
-* Les ressouces internes sotn de nouveau accessibles
-* La connexion Internet fonctionne normalement
+* Adresse IP unique attribué au poste
+* Accès au réseau rétabli
+* Ressouces internes de nouveau accessibles
+* Connexion Internet fonctionne normalement
 
 ## Compétences démontrées
 
