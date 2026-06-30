@@ -4,7 +4,7 @@
 Un utilisateur signale qu'il ne parvient plus à accéder au réseau de l'entreprise. Son poste affiche une connexion au réseau local, mais l'accès aux ressources internes et à Internet est impossible.
 
 ## Symptômes
-- Aucun accès à Intert
+- Aucun accès à Internet
 - Impossible d'accèder aux serveurs et aux partages réseaux
 - Message d'erreur indiquant un conflit d'adresse IP
 - Autres utilsateurs du réseau fonctionnant normalement
