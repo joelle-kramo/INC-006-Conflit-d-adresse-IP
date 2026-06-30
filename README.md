@@ -52,8 +52,8 @@ Observateur d'événements
 
 Vérifier :
 
-* Les événements signalant un conflit d'adresse IP
-* Les messages provenant du service TCP/IP
+* Événements signalant un conflit d'adresse IP
+* Messages provenant du service TCP/IP
 
 ### Vérification du serveur DHCP
 
